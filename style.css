@@ -568,6 +568,9 @@ section.start-animation .skill-box2{
     height: 100%;
     background: #ff00ee;
 }
+.bar-0{
+    width: 100%;
+}
 .bar-1{
     width: 90%;
 }
